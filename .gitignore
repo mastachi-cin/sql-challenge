@@ -1,0 +1,46 @@
+Last login: Wed Aug 19 11:54:52 on console
+cd g%                                                                           (base) cintiaolivamercadomastach@iMac-de-Cintia ~ % cd git
+(base) cintiaolivamercadomastach@iMac-de-Cintia git % ls
+VBA-challenge		project-1		sql-challenge
+matplotlib-challenge	python-api-challenge	testing
+pandas-challenge	python-challenge
+(base) cintiaolivamercadomastach@iMac-de-Cintia git % cd sql-challenge
+(base) cintiaolivamercadomastach@iMac-de-Cintia sql-challenge % ls
+EmployeeSQL	README.md
+(base) cintiaolivamercadomastach@iMac-de-Cintia sql-challenge % touch .gitignore
+(base) cintiaolivamercadomastach@iMac-de-Cintia sql-challenge % ls
+EmployeeSQL	README.md
+(base) cintiaolivamercadomastach@iMac-de-Cintia sql-challenge % ls -all
+total 32
+drwxr-xr-x   7 cintiaolivamercadomastach  staff   224 Aug 19 12:58 .
+drwxr-xr-x  11 cintiaolivamercadomastach  staff   352 Aug 16 17:36 ..
+-rw-r--r--@  1 cintiaolivamercadomastach  staff  8196 Aug 17 19:14 .DS_Store
+drwxr-xr-x  12 cintiaolivamercadomastach  staff   384 Aug 16 17:36 .git
+-rw-r--r--   1 cintiaolivamercadomastach  staff     0 Aug 19 12:58 .gitignore
+drwxr-xr-x  10 cintiaolivamercadomastach  staff   320 Aug 17 15:09 EmployeeSQL
+-rw-r--r--   1 cintiaolivamercadomastach  staff    49 Aug 16 17:36 README.md
+(base) cintiaolivamercadomastach@iMac-de-Cintia sql-challenge % vi .gitignore   
+.env
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
